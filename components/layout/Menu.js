@@ -155,7 +155,7 @@ export default function Menu() {
                         <li><Link href="team-details">Team Details</Link></li>
                         <li><Link href="portfolio">Portfolio</Link></li>
                         <li><Link href="portfolio-details">Portfolio Details</Link></li>
-                        <li><Link href="testimonial">Testimonials</Link></li>
+                        <li><Link href="testimonials">Testimonials</Link></li>
                         <li><Link href="pricing">Pricing</Link></li>
                         <li><Link href="faq">Faq</Link></li>
                         <li><Link href="404">404 Error</Link></li>

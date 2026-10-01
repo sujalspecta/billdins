@@ -12,7 +12,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
     return (
-        <html lang="en" className={`${publicSans.variable} ${exo.variable}`}>
+        <html lang="en" className={`${publicSans.variable} ${exo.variable}`} data-scroll-behavior="smooth" >
             <body>{children}</body>
         </html>
     )
